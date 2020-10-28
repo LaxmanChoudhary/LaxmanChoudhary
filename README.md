@@ -14,7 +14,7 @@ Greetings...
 <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Quora_logo_2015.svg/1200px-Quora_logo_2015.svg.png"><br>
 ---
 #### A great fan of!
-<img height="60" src="https://freepngimg.com/thumb/harry_potter/23544-2-harry-potter-logo-file-thumb.png">
+<code><img height="60" src="https://freepngimg.com/thumb/harry_potter/23544-2-harry-potter-logo-file-thumb.png"></code>
 ---
 #### Also love to
 <code><img height="60" src="https://www.freepnglogos.com/uploads/photoshop-png-logo/photoshop-logo-png-transparent-photoshop-logo-images-13.png"></code>
