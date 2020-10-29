@@ -12,14 +12,16 @@ Greetings...
   <code><img height="40" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/react-logo.png"></code>
   <code><img height="40" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/react-redux.png"></code>
 ---
-#### What I love to do?
+#### :green_heart: What I love to do?
 <img height="20" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/quora.png"><br>
 ---
-#### A great fan of!
+#### :ticket: A great fan of!
 <img height="60" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/hp.png"><br>
 ---
-#### Also love to
+#### :hammer: Also love to
 <code><img height="60" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/ps.png"></code>
+---
+Looking for [Gitmoji](https://gitmoji.carloscuesta.me/) and [more](https://gist.github.com/rxaviers/7360908).
 <!--
 **LaxmanChoudhary/LaxmanChoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
