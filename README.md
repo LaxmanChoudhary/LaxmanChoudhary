@@ -12,13 +12,13 @@ Greetings...
   <code><img height="40" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/react-logo.png"></code>
   <code><img height="40" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/react-redux.png"></code>
 ---
-#### :green_heart: `what I love to do?`
+#### `what I love to do?`:green_heart:
 <img height="20" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/quora.png"><br>
 ---
-#### :ticket: `a great fan of!`
+#### `a great fan of!`:ticket:
 <img height="60" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/hp.png"><br>
 ---
-#### :hammer: `also love to`
+#### `also love to`:hammer:
 <code><img height="60" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/ps.png"></code>
 ---
 Looking for [Gitmoji](https://gitmoji.carloscuesta.me/) and [more](https://gist.github.com/rxaviers/7360908).
