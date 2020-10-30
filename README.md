@@ -12,7 +12,7 @@ Greetings...
   <code><img height="40" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/react-logo.png"></code>
   <code><img height="40" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/react-redux.png"></code>
 ---
-#### :green_heart: What I love to do?
+#### :green_heart: `What I love to do?`
 <img height="20" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/quora.png"><br>
 ---
 #### :ticket: A great fan of!
