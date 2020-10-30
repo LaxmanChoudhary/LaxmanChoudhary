@@ -2,7 +2,7 @@
 
 Greetings...
 
-#### 👨🏻‍💻 Languages and tools I work with <br />
+#### 👨🏻‍💻 `languages and tools I work with` <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -12,13 +12,13 @@ Greetings...
   <code><img height="40" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/react-logo.png"></code>
   <code><img height="40" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/react-redux.png"></code>
 ---
-#### :green_heart: `What I love to do?`
+#### :green_heart: `what I love to do?`
 <img height="20" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/quora.png"><br>
 ---
-#### :ticket: A great fan of!
+#### :ticket: `a great fan of!`
 <img height="60" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/hp.png"><br>
 ---
-#### :hammer: Also love to
+#### :hammer: `also love to`
 <code><img height="60" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/ps.png"></code>
 ---
 Looking for [Gitmoji](https://gitmoji.carloscuesta.me/) and [more](https://gist.github.com/rxaviers/7360908).
