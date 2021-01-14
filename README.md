@@ -18,7 +18,7 @@ Greetings...
 #### `a great fan of!` 🎟️
 <img height="60" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/hp.png"><br>
 ---
-#### `also love to` 💊
+#### `also love to`
 
 ---
 Looking for [Gitmoji](https://gitmoji.carloscuesta.me/) and [more](https://gist.github.com/rxaviers/7360908).
