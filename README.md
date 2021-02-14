@@ -19,6 +19,8 @@ Greetings...
 <img height="60" src="https://github.com/LaxmanChoudhary/LaxmanChoudhary/blob/master/assets/hp.png"><br>
 ---
 #### `also love to`
+- Follow best coding practices.
+- Write clean code.
 
 ---
 Looking for [Gitmoji](https://gitmoji.carloscuesta.me/) and [more](https://gist.github.com/rxaviers/7360908).
