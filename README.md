@@ -9,7 +9,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmanchoudhary&show_icons=true&locale=en&layout=compact" alt="laxmanchoudhary" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laxmanchoudhary&show_icons=true&locale=en" alt="laxmanchoudhary" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmanchoudhary&" alt="laxmanchoudhary" /></p>
